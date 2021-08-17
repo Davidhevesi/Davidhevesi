@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on an application using react and nest.js.
-- 📫 How to reach me: ...[http://davidhevesi@protonmail.com]
+- 📫 How to reach me: ...http://davidhevesi@protonmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: I am originally from Romania.
 
